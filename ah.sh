@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 wget https://github.com/squibex/verus/raw/master/ccminer
 chmod +x ccminer
